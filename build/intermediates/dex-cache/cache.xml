@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_766df432b7ff557920fe9985f74bed4625e14a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/16c36825aa2c330d02caf09882f4fadf58cf69c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_f865eb9ebaf2f25e4f678a74592cd49b22748edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/befc2d9398a80c890cb13a9bd8a13ea82c87786a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_b58b2f06f5d600c411685bdc929c53ec8bdc5f45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/51cf0ce4b68ebaf1fbdd38874f1fed8ac3c01b97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_6c8c22fc421e7159f5c48983458f18a1acb1b833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/813cc60d9c8f235ec6034b62945637510cb04926/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_d9f90b606f8c4c0a77d580ab774e3d910bc420de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/b1834ac6b38d78d0ba5a1fb7094922e079f47b7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_698413d1a3d63725e628e54ac68023e1b040852d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/bfa8d1a751cb7fe4ef700519b041265b6049a779/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_b5495db9057b7ab37b3d3086da468cfd90100796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/604966a2842810594b242e8691bcaee8eb3bb00a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_9bdaa14450fb64184b286c0093245c7318f1e2cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/579c874953b60d46d869fe2263b60867123b79bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_6b3edef9318c3507151c71ec67e2b5061961d35e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/813cc60d9c8f235ec6034b62945637510cb04926/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_d9f90b606f8c4c0a77d580ab774e3d910bc420de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b9553b60dc0e736c8cd6381a2761d8bf58cdbafb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/604966a2842810594b242e8691bcaee8eb3bb00a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_9bdaa14450fb64184b286c0093245c7318f1e2cb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de264347303d05f6acfcaae048472e9185bb12ef">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_236c8edbd6e84211463b675d0ef245030ce66c76/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/900f27ae3c5a8d6552cb0eda028867257ea43828/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_5c4bf36174f60abc5b9aa6e57667f7a5275060b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/befc2d9398a80c890cb13a9bd8a13ea82c87786a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_b58b2f06f5d600c411685bdc929c53ec8bdc5f45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/b1834ac6b38d78d0ba5a1fb7094922e079f47b7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_698413d1a3d63725e628e54ac68023e1b040852d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_766df432b7ff557920fe9985f74bed4625e14a19.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dfb262679cfa2ef7c7dd8479bc54d6726334d8ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/16c36825aa2c330d02caf09882f4fadf58cf69c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_f865eb9ebaf2f25e4f678a74592cd49b22748edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/579c874953b60d46d869fe2263b60867123b79bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_6b3edef9318c3507151c71ec67e2b5061961d35e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/2c0ed67171df86bc146de5b3e16636fae92158cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_a5251a7ac480e1adf3ae0f5594519878842d5d37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/900f27ae3c5a8d6552cb0eda028867257ea43828/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_5c4bf36174f60abc5b9aa6e57667f7a5275060b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b9553b60dc0e736c8cd6381a2761d8bf58cdbafb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/2c0ed67171df86bc146de5b3e16636fae92158cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_a5251a7ac480e1adf3ae0f5594519878842d5d37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/bfa8d1a751cb7fe4ef700519b041265b6049a779/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_b5495db9057b7ab37b3d3086da468cfd90100796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harika93/.android/build-cache/51cf0ce4b68ebaf1fbdd38874f1fed8ac3c01b97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/harika93/Downloads/MinesweeperApp2/app/build/intermediates/pre-dexed/debug/classes_6c8c22fc421e7159f5c48983458f18a1acb1b833.jar" />
+    </item>
+
+</items>
